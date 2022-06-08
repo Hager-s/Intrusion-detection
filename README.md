@@ -1,8 +1,7 @@
 final_project
 ==============================
 
-use ensample learning in intrusion detection problem
-
+using different ensemble learning techniques to detect different types of attacks and then creating a live dashboard to visualize the data and the model's outputs using ELK 
 Project Organization
 ------------
 
