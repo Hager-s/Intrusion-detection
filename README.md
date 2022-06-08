@@ -1,4 +1,4 @@
-final_project
+Intrusion detection using machine learning
 ==============================
 
 using different ensemble learning techniques to detect different types of attacks and then creating a live dashboard to visualize the data and the model's outputs using ELK 
